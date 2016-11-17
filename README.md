@@ -1,2 +1,1 @@
-# Selenium-Web-Browser-Automation
-Selenium-Web-Browser-Automation
+# Assignment-1-Selenium-Web-Browser-Automation
